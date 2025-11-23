@@ -18,5 +18,17 @@ The dataset contains 150000+ booking records with details such as:
 5)Pickup & drop locations
 6)Cancellation reasons
 
+## Objectives
+Analyze ride volume trends and booking patterns.
+Study cancellation reasons (both customer & driver).
+Identify top-performing vehicle types and high-value customers.
+Measure customer vs. driver satisfaction through ratings.
+Visualize KPIs with Power BI dashboards.
+
+##Project Files
+Bookings-150000-Rows.xlsx → Dataset with ride bookings.
+OLA_PROJECT.pbix → Power BI dashboard with interactive reports.
+OLA-Data-Analyst-Project-1.pdf → Project documentation with SQL & Power BI tasks.
+
 ## Dataset Used
 - <a href: "https://github.com/Sharayu2108/Transportation-Performance-Analysis-Uber-/blob/main/uber.xlsx"> Dataset</a>
