@@ -13,29 +13,29 @@ The dataset contains 150000+ booking records with details such as:
 
 - Booking status (success, cancelled, incomplete)
 - Vehicle type (Auto, Prime Sedan, Mini, SUV, Bike, etc.)
-3)Customer & driver ratings
-4)Booking value & payment methods
-5)Pickup & drop locations
-6)Cancellation reasons
+- Customer & driver ratings
+- Booking value & payment methods
+- Pickup & drop locations
+- Cancellation reasons
 
 ## Objectives
-Analyze ride volume trends and booking patterns.
-Study cancellation reasons (both customer & driver).
-Identify top-performing vehicle types and high-value customers.
-Measure customer vs. driver satisfaction through ratings.
-Visualize KPIs with Power BI dashboards.
+- Analyze ride volume trends and booking patterns.
+- Study cancellation reasons (both customer & driver).
+- Identify top-performing vehicle types and high-value customers.
+- Measure customer vs. driver satisfaction through ratings.
+- Visualize KPIs with Power BI dashboards.
 
 ## Technologies Used
-Excel – Data cleaning & preprocessing
-Power BI – Data visualization and dashboard building
+- Excel – Data cleaning & preprocessing
+- Power BI – Data visualization and dashboard building
 
 ## Key Insights & Dashboards
-Ride Volume Over Time – Daily/weekly booking trends.
-Booking Status Breakdown – Successful vs. cancelled vs. incomplete rides.
-Top 5 Vehicle Types by Distance – Most preferred ride categories.
-Revenue by Payment Method – UPI, Cash, Credit/Debit cards.
-Cancellation Analysis – Customer vs. driver cancellation reasons.
-Top 5 Customers by Booking Value – High-value customers.
-Ratings Distribution – Comparing customer vs. driver ratings.
+- Ride Volume Over Time – Daily/weekly booking trends.
+- Booking Status Breakdown – Successful vs. cancelled vs. incomplete rides.
+- Top 5 Vehicle Types by Distance – Most preferred ride categories.
+- Revenue by Payment Method – UPI, Cash, Credit/Debit cards.
+- Cancellation Analysis – Customer vs. driver cancellation reasons.
+- Top 5 Customers by Booking Value – High-value customers.
+- Ratings Distribution – Comparing customer vs. driver ratings.
 
 
