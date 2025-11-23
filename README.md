@@ -11,12 +11,12 @@ This project analyzes Uber ride booking data to derive insights into ride patter
 
 The dataset contains 150000+ booking records with details such as:
 
-Booking status (success, cancelled, incomplete)
-Vehicle type (Auto, Prime Sedan, Mini, SUV, Bike, etc.)
-Customer & driver ratings
-Booking value & payment methods
-Pickup & drop locations
-Cancellation reasons
+1)Booking status (success, cancelled, incomplete)
+2)Vehicle type (Auto, Prime Sedan, Mini, SUV, Bike, etc.)
+3)Customer & driver ratings
+4)Booking value & payment methods
+5)Pickup & drop locations
+6)Cancellation reasons
 
 ## Dataset Used
 - <a href: "https://github.com/Sharayu2108/Transportation-Performance-Analysis-Uber-/blob/main/uber.xlsx"> Dataset</a>
