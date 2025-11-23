@@ -25,10 +25,17 @@ Identify top-performing vehicle types and high-value customers.
 Measure customer vs. driver satisfaction through ratings.
 Visualize KPIs with Power BI dashboards.
 
-##Project Files
-Bookings-150000-Rows.xlsx → Dataset with ride bookings.
-OLA_PROJECT.pbix → Power BI dashboard with interactive reports.
-OLA-Data-Analyst-Project-1.pdf → Project documentation with SQL & Power BI tasks.
+## Technologies Used
+Excel – Data cleaning & preprocessing
+Power BI – Data visualization and dashboard building
 
-## Dataset Used
-- <a href: "https://github.com/Sharayu2108/Transportation-Performance-Analysis-Uber-/blob/main/uber.xlsx"> Dataset</a>
+## Key Insights & Dashboards
+Ride Volume Over Time – Daily/weekly booking trends.
+Booking Status Breakdown – Successful vs. cancelled vs. incomplete rides.
+Top 5 Vehicle Types by Distance – Most preferred ride categories.
+Revenue by Payment Method – UPI, Cash, Credit/Debit cards.
+Cancellation Analysis – Customer vs. driver cancellation reasons.
+Top 5 Customers by Booking Value – High-value customers.
+Ratings Distribution – Comparing customer vs. driver ratings.
+
+
